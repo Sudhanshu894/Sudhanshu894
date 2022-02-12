@@ -1,7 +1,7 @@
  <h2> Hey there! 👋 I'm Sudhanshu Sharma.</h2>
  <br/>
  
- <div><img align="center" height="200rem" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" /></div>
+ <div><img align="center" height="200rem" width="80vw" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" /></div>
 
 <h3> &nbsp;About Me </h3>  
 
