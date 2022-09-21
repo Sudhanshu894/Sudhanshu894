@@ -1,14 +1,14 @@
  <h2> Hey there! 👋 I'm Sudhanshu Sharma.</h2>
  <br/>
  
- <div><img align="center" height="300rem" width="500vw" margin="auto" alt="Github" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" /></div>
+ <div width="60%" align="center"><img align="center" height="auto" width="70%" alt="Github" src="https://c.tenor.com/WthWmIXI24cAAAAd/work-working.gif" /></div>
 
 <h3> &nbsp;About Me </h3>  
 
 - 🙂 &nbsp; Exploring new technologies and learning data structures and algorithms.
-- 🎓 &nbsp; Learning Web Development at masai school
-- 💼 &nbsp; Aspire to work as a MERN Stack developer.
-- 🌱 &nbsp; Currently learning figma, AWS, TypeScript.
+- 🎓 &nbsp; Currently working as Instructional Associate at masai school
+- 💼 &nbsp; Proficient in MERN Technologies.
+- 🌱 &nbsp; Currently learning figma and Nextjs.
 - 👯‍♂️ &nbsp; Looking for Contributing to MERN stack projects with lots of learning and experience. Happy to Contribute in Opne source Projects<br>
 - 💬 &nbsp; Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to tell.
 - ⚡ Fun fact: Passion for coding, enjoy playing volleyball and reading books.
@@ -55,6 +55,8 @@
 ### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://www.heroku.com/" target="_blank"><img style="margin: 10px" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGmNZMDOpmMQg/company-logo_200_200/0/1519905610801?e=2147483647&v=beta&t=y372VIX1duemyS-L8Dopqyw4zhIP-XF6liv8gSFWXyw" alt="heroku" height="50" /></a>  
+<a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/max/2400/0*BRl-uL7N9LF-1hiD.png" alt="netlify" height="50" /></a>  
 </div>
 
 </td></tr></table>  
