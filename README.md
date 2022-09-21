@@ -73,6 +73,14 @@
 <h3>&nbsp;Visit my portfolio </h3>
 &nbsp;&nbsp;<a href="https://sudhanshu-sharma.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-blue?style=flat-square&logo=google-chrome"></a><br/>
 
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Sudhanshu894&theme=react-dark)](https://github.com/Sudhanshu894/github-readme-activity-graph)
+<br/>
+<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sudhanshu894&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sudhanshu894&theme=onedark)](https://github.com/Sudhanshu894/github-profile-trophy)
+<br/>
+
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sudhanshu894/" target="_blank">
